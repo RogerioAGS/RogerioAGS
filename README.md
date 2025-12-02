@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/donjuan029/donjuan029/main/assets/brain-cloud-animation.gif" 
-       alt="3D AI Brain Animation - Juan Carlo" width="75%">
+       alt="3D AI Brain Animation - Rogério Antonio Galindo dos Santos" width="75%">
 </p>
 
 
