@@ -9,7 +9,8 @@
 
 <p align="center">
 👨‍💻 Desenvolvedor Java | 🏦 Experiência Bancária (Mainframe) | ☁️ Cloud (AWS) | 📊 BI & Big Data |
-📈 Análise de Sistemas | 📈 Cientista de Dados
+📈 Análise de Sistemas 
+| 📈 Cientista de Dados
 </p>
 
 ---
