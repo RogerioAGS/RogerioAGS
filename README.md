@@ -64,7 +64,7 @@ Também sou **MBA em Análise de Dados com BI e Big Data** e possuo experiência
 🎓 **Bacharrel em Sistemas de Informação** – CFSA - Fundação Santo André  
 🎓 **Tecnólogo em Polímeros** – Fatec Mauá  
 
-📘 **Cursos e Certificações Focadas em Java e Cloud:**
+📘 **Cursos e Certificações Focadas em Java, Cloud e Ciência de dados:**
 * Curso Programação Oracle - **Java Programming** (80h) - Senai Mauá
 * Curso Programação Oracle - **Java Fundamentals** (80h) - Senai Mauá
 * Curso **Java Web** (40h) – Impacta
@@ -72,6 +72,7 @@ Também sou **MBA em Análise de Dados com BI e Big Data** e possuo experiência
 * Java Development - (60h) - Fiap
 * Implantação de Serviços em Nuvem - **AWS Cloud Practitioner** Foundational (40h) - Senai Mauá
 * Microsoft Power BI - (32h) - Senai Mauá
+* Programação em Python - 60 horas - Senai Mauá
 
 ---
 
