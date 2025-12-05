@@ -65,11 +65,13 @@ Também sou **MBA em Análise de Dados com BI e Big Data** e possuo experiência
 🎓 **Tecnólogo em Polímeros** – Fatec Mauá  
 
 📘 **Cursos e Certificações Focadas em Java e Cloud:**
-* Curso Programação Oracle - **Java Programming** (80h)
-* Curso Programação Oracle - **Java Fundamentals** (80h)
+* Curso Programação Oracle - **Java Programming** (80h) - Senai Mauá
+* Curso Programação Oracle - **Java Fundamentals** (80h) - Senai Mauá
 * Curso **Java Web** (40h) – Impacta
-* Curso Programação Oracle - **Java Inteligência Artificial com Machine Learning** (40h)
-* Implantação de Serviços em Nuvem - **AWS Cloud Practitioner** Foundational (40h)
+* Curso Programação Oracle - **Java Inteligência Artificial com Machine Learning** (40h) - Senai Mauá
+* Java Development - (60h) - Fiap
+* Implantação de Serviços em Nuvem - **AWS Cloud Practitioner** Foundational (40h) - Senai Mauá
+* Microsoft Power BI - (32h) - Senai Mauá
 
 ---
 
