@@ -79,19 +79,24 @@ Também sou **MBA em Análise de Dados com BI e Big Data** e possuo experiência
 
 ### 💼 Experiência Profissional Relevante (TI)
 
-**Hewlett-Packard Company (HP)** — *Analista Cobol Pleno*  
+** Monpower Staffing - Alocado em Hewlett-Packard Company (HP)** — *Analista Cobol Pleno*  
 📅 03/2014 a 07/2014  
 - Atuação no Projeto **Desativação EA Digital** (Banco Itaú).
 - Análise de programas batch e online, COBOL, DB2, VSAM, IMS, CICS, BMS.
 - Utilização da metodologia **SCRUM** e participação em equipe POC.
 
 **BRQ IT SERVICE** — *Analista/Desenvolvedor Cobol Pleno*  
-📅 07/2012 a 11/2013  
-- Desenvolvimento de programas batch e online, books utilizando COBOL, DB2, VSAM, IMS, CICS, BMS.
+📅 07/2012 a 10/2013  
+- Desenvolvimento de programas sitemas do **Banco Itaú** batch e online, books utilizando COBOL, DB2, VSAM, IMS, CICS, BMS.
 - Estruturação e Manutenção de módulos e funcionalidades (ex: 'Parametrização X0 – R1‘).
 
 **Work Vision Technology** — *Analista de Sistemas / Desenvolvedor Cobol*  
-📅 11/2010 a 06/2012  
+📅 01/2010 a 06/2012  
+- Desenvolvimento de módulos online para sistemas do **Banco Bradesco** (SACL, ARCD, UORG).
+- Elaboração de levantamento, cronograma, diagramas UML, e documentação (DFIS-D, DFIS-E, RTU, RTI).
+
+**Do Right Informática LTDA** — *Analista de Sistemas / Desenvolvedor Cobol*  
+📅 09/2010 a 01/2011  
 - Desenvolvimento de módulos online para sistemas do **Banco Bradesco** (SACL, ARCD, UORG).
 - Elaboração de levantamento, cronograma, diagramas UML, e documentação (DFIS-D, DFIS-E, RTU, RTI).
 
