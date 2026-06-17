@@ -91,7 +91,7 @@ Também sou **MBA em Análise de Dados com BI e Big Data** e possuo experiência
 - Estruturação e Manutenção de módulos e funcionalidades (ex: 'Parametrização X0 – R1‘).
 
 **Work Vision Technology - Cliente Banco Bradesco** — *Analista de Sistemas / Desenvolvedor Cobol*  
-📅 01/2010 a 06/2012  
+📅 01/2011 a 06/2012  
 - Desenvolvimento de módulos online para sistemas do **Banco Bradesco** (SACL, ARCD, UORG).
 - Elaboração de levantamento, cronograma, diagramas UML, e documentação (DFIS-D, DFIS-E, RTU, RTI).
 
