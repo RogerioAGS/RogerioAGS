@@ -79,7 +79,7 @@ Também sou **MBA em Análise de Dados com BI e Big Data** e possuo experiência
 
 ### 💼 Experiência Profissional Relevante (TI)
 
-** Monpower Staffing - Alocado em Hewlett-Packard Company (HP) - Cliente Banco Itaú** — *Analista Cobol Pleno*  
+**Monpower Staffing - Alocado em Hewlett-Packard Company (HP) - Cliente Banco Itaú** — *Analista Cobol Pleno*  
 📅 03/2014 a 07/2014  
 - Atuação no Projeto **Desativação EA Digital** (Banco Itaú).
 - Análise de programas batch e online, COBOL, DB2, VSAM, IMS, CICS, BMS.
