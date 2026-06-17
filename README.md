@@ -85,7 +85,7 @@ Também sou **MBA em Análise de Dados com BI e Big Data** e possuo experiência
 - Análise de programas batch e online, COBOL, DB2, VSAM, IMS, CICS, BMS.
 - Utilização da metodologia **SCRUM** e participação em equipe POC.
 
-**BRQ IT SERVICE Cliente Banco Itaú** — *Analista/Desenvolvedor Cobol Pleno*  
+**BRQ IT SERVICE - Cliente Banco Itaú** — *Analista/Desenvolvedor Cobol Pleno*  
 📅 07/2012 a 10/2013  
 - Desenvolvimento de programas sitemas do **Banco Itaú** batch e online, books utilizando COBOL, DB2, VSAM, IMS, CICS, BMS.
 - Estruturação e Manutenção de módulos e funcionalidades (ex: 'Parametrização X0 – R1‘).
