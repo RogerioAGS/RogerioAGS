@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou profissional com sólida base em **Análise e Desenvolvimento de Sistemas** e mais de 3 anos de experiência na área de Informática, com atuação em ambiente **Mainframe (COBOL, CICS, DB2, ChangeMan, z/OS, TSO)**.
+Sou profissional com sólida base em **Análise e Desenvolvimento de Sistemas Cobol** a mais de 3 anos de experiência na área de Informática, com atuação em ambiente **Mainframe (COBOL, CICS, DB2, ChangeMan, z/OS, TSO)**.
 
 Possuo conhecimento prático na utilização de **Java (POO, Coleções, JDBC, JVM)** e **Python**.
 
