@@ -16,11 +16,11 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou profissional com sólida base em **Análise e Desenvolvimento de Sistemas** e mais de 4 anos de experiência na área de Informática, com atuação em ambiente **Mainframe (COBOL, CICS, DB2)**.
+Sou profissional com sólida base em **Análise e Desenvolvimento de Sistemas** e mais de 3 anos de experiência na área de Informática, com atuação em ambiente **Mainframe (COBOL, CICS, DB2, ChangeMan, z/OS, TSO)**.
 
-Minha carreira atual está em **transição e consolidação para Engenharia de Software**, com foco principal em **Desenvolvimento Java**. Possuo conhecimento prático na utilização de **Java (POO, Coleções, JDBC, JVM)** e **Python**.
+Possuo conhecimento prático na utilização de **Java (POO, Coleções, JDBC, JVM)** e **Python**.
 
-Minha experiência anterior inclui atuação em projetos para o setor **Bancário (Itaú e Bradesco)**, onde apliquei metodologias de desenvolvimento e documentação de artefatos.
+Minha experiência inclui atuação em projetos para o setor **Bancário (Itaú e Bradesco)**, onde apliquei metodologias de desenvolvimento e documentação de artefatos.
 
 Também sou **MBA em Análise de Dados com BI e Big Data** e possuo experiência em gestão de empresas juniores.
 
