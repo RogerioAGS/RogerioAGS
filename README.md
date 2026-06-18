@@ -79,7 +79,7 @@ Também sou **MBA em Análise de Dados com BI e Big Data** e possuo experiência
 
 ### 💼 Experiência Profissional Relevante (TI)
 
-**Accenture** — *Analista Desenvolvedor Cobol*  
+**Accenture Brasil** — *Analista Desenvolvedor Cobol*  
 📅 06/2026 a Atual  
 
 **Monpower Staffing - Alocado em Hewlett-Packard Company (HP) - Cliente Banco Itaú** — *Analista Cobol Pleno*  
